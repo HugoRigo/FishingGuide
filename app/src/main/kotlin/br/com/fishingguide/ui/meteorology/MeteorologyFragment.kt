@@ -1,16 +1,15 @@
-package br.com.fishingguide.ui.home
+package br.com.fishingguide.ui.meteorology
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import br.com.fishingguide.databinding.FragmentHomeBinding
+import br.com.fishingguide.databinding.FragmentMeteorologyBinding
 
-class HomeFragment : Fragment() {
+class MeteorologyFragment : Fragment() {
 
-    private var _binding: FragmentHomeBinding? = null
-
+    private var _binding: FragmentMeteorologyBinding? = null
     private val binding get() = _binding!!
 
     override fun onCreateView(
@@ -18,13 +17,8 @@ class HomeFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        _binding = FragmentHomeBinding.inflate(inflater, container, false)
+        _binding = FragmentMeteorologyBinding.inflate(inflater, container, false)
         return binding.root
-    }
-
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
-
     }
 
     override fun onDestroyView() {
