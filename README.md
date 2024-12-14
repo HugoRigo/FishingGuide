@@ -18,13 +18,14 @@
 | **Comunidade:** Compartilhe suas experiências e dicas com outros pescadores | ❌ Planejado |
 | **Notificações:** Receba alertas sobre condições climáticas favoráveis para a pesca | ❌ Planejado |
 
-
 **Tecnologias:**
-* **Android:** Desenvolvimento nativo para dispositivos Android | ✅ |
-* **Kotlin:** Linguagem moderna e concisa para desenvolvimento Android | ✅ |
-* **Google Maps SDK:** Integração de mapas e serviços de localização | ✅ |
-* **Firebase Firestore:** Banco de dados NoSQL para armazenamento de dados do usuário | ❌ Planejado |
-* **Retrofit:** Biblioteca para consumir APIs REST (para previsão do tempo, por exemplo) | ❌ Planejado |
+| Tecnologia | Status |
+|---|---|
+| * **Android:** Desenvolvimento nativo para dispositivos Android | ✅ Implementado |
+| * **Kotlin:** Linguagem moderna e concisa para desenvolvimento Android | ✅ Implementado |
+| * **Google Maps SDK:** Integração de mapas e serviços de localização | ✅ Implementado |
+| * **Firebase Firestore:** Banco de dados NoSQL para armazenamento de dados do usuário | ❌ Em desenvolvimento |
+| * **Retrofit:** Biblioteca para consumir APIs REST (para previsão do tempo, por exemplo) | ❌ Planejado |
 
 **Roadmap:**
 * **Curto prazo:** Implementar a previsão do tempo utilizando uma API externa.
