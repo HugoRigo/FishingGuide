@@ -25,6 +25,9 @@
 | * **Android:** Desenvolvimento nativo para dispositivos Android | ✅ Implementado |
 | * **Kotlin:** Linguagem moderna e concisa para desenvolvimento Android | ✅ Implementado |
 | * **Google Maps SDK:** Integração de mapas e serviços de localização | ✅ Implementado |
+| * **MVVM:** Uma das principais arquiteturas para desenvolvimento de aplicativos | ❌ Planejado |
+| * **DI:** Injeção de dependências Koin ou Hilt | ❌ Planejado |
+| * **Firebase Authentication:** Criação e login dos usuários | ❌ Planejado |
 | * **Firebase Firestore:** Banco de dados NoSQL para armazenamento de dados do usuário | ❌ Em desenvolvimento |
 | * **Retrofit:** Biblioteca para consumir APIs REST (para previsão do tempo, por exemplo) | ❌ Planejado |
 
