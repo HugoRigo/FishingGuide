@@ -12,9 +12,10 @@
 
 | Funcionalidade | Status |
 |---|---|
-| **Mapas Interativos:** Encontre rampas de acesso, pontos de pesca e locais de perigo | ✅ Implementado |
-| **Previsão do Tempo:** Consulte a previsão meteorológica para planejar sua pescaria | ❌ Planejado |
+| **Mapa:** Visualize o mapa, local atual, visão satelite | ✅ Implementado |
 | **Registro de Pontos:** Salve seus locais de pesca favoritos e acesse-os a qualquer momento | ❌ Em desenvolvimento |
+| **Previsão do Tempo:** Consulte a previsão meteorológica para planejar sua pescaria | ❌ Planejado |
+| **Mapa Interativo:** Encontre rampas de acesso, pontos de pesca e locais de perigo | ❌ Planejado |
 | **Comunidade:** Compartilhe suas experiências e dicas com outros pescadores | ❌ Planejado |
 | **Notificações:** Receba alertas sobre condições climáticas favoráveis para a pesca | ❌ Planejado |
 
