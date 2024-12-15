@@ -16,14 +16,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        map:cameraBearing="112.5"
-        map:cameraTilt="30"
-        map:cameraZoom="5"
-        map:mapType="satellite"
-        map:uiCompass="true"
-        map:uiRotateGestures="true"
-        map:uiScrollGestures="true"
-        map:uiTiltGestures="true"
-        map:uiZoomControls="true"
-        map:uiZoomGestures="true" />
+        />
 </androidx.constraintlayout.widget.ConstraintLayout>
