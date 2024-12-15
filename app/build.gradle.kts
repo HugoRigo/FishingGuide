@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "br.com.fishingguide"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "br.com.fishingguide"
         minSdk = 29
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
